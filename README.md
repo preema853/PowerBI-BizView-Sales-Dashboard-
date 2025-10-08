@@ -1,34 +1,41 @@
-# 📊 BizView: Sales Edition
+# 📊 BizView: Sales Edition (Power BI Dashboard)
 
-### Overview
-This Power BI dashboard visualizes company-wide sales performance across multiple regions and categories.  
-It provides valuable insights using interactive charts and predictive analytics.
-
----
-
-### 🔍 Key Features
-- **Dynamic Region Filtering** (Central, East, South, West)
-- **Sales by Category, Sub-Category, and Ship Mode**
-- **Monthly Sales Pattern** with year-over-year comparison
-- **Sales & Profit by State (Map Visualization)**
-- **Payment and Segment Analysis**
-- **15-Day Sales Forecasting** using time series analysis
-- **Average Delivery Days** calculated using DAX
+This repository contains a **Power BI dashboard** for Sales Analytics.  
+The project provides insights into **regional sales performance, product categories, shipping modes, and payment methods**, along with **15-day sales forecasting**.
 
 ---
 
-### ⚙️ Tools & Techniques
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Time Series Analysis**
-- **Data Cleaning and Visualization**
+## 📁 Files in this Repository
+- `BizView_Sales_Edition.pbix` → Power BI dashboard file  
+- `BizViw.csv` → Dataset used for analysis   
 
 ---
 
-### 📈 Insights
-- Technology and Furniture categories drive major sales.
-- Online and COD are the most used payment modes.
-- Steady sales growth pattern observed from April to August.
-- Central and East regions lead in performance.
+## 🔍 Dashboard Insights
+- Sales by **Category, Sub-Category, Ship Mode, and Region**  
+- **Average Delivery Days** calculated using DAX  
+- **Monthly Sales Pattern** comparison for 2019 & 2020  
+- **Sales by Segment and Payment Mode**  
+- **Sales & Profit by State** (map visualization)  
+- **15-Day Sales Forecasting** using time series analysis  
 
 ---
+
+## 🛠️ Tools Used
+- **Power BI Desktop** → Data visualization and dashboard creation  
+- **DAX (Data Analysis Expressions)** → Calculations and measures  
+- **Excel / CSV** → Data source  
+- **Time Series Analysis** → Forecasting future sales  
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file.  
+2. Open it in **Power BI Desktop**.  
+3. Load or connect your dataset (`BizViw.csv`).  
+4. Explore the interactive visuals and insights.  
+
+---
+
+## 📌 About
+This project showcases my ability to apply **data analysis techniques**, leveraging **Power BI and DAX** to generate **actionable business insights, accurate forecasting, and interactive visual storytelling**.  
